@@ -1,0 +1,6 @@
+.devcontainer/
+docker/
+.vscode/
+vendor/
+.phpunit.result.cache
+composer.lock
